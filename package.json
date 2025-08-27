@@ -1,0 +1,23 @@
+{
+  "name": "text-se-image",
+  "version": "1.0.0",
+  "description": "Generate image using prompt.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rishavtiwari22/text-se-image.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Rishav Tiwari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rishavtiwari22/text-se-image/issues"
+  },
+  "homepage": "https://github.com/rishavtiwari22/text-se-image#readme"
+}
