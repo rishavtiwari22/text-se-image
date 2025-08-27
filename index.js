@@ -1,6 +1,6 @@
 
 
-export default async function generateImage(prompt, model, {
+export default async function generateImage(prompt, model = { id: "flux-schnell" }, {
   width = 512,
   height = 512,
   seed = 42
